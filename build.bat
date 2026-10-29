@@ -1,0 +1,1 @@
+g++ -std=c++17 -O2 -Wall -Wextra pei.cpp -o pei.exe
